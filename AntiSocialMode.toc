@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Anti-Social Mode
+## Notes: Turn on Anti-Social Mode to let bothersome players who insist on whispering you know you would not like to be whispered.
+## Version: 1.0.2
+## SavedVariables: isOn
+
+AntiSocialMode.lua
